@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile! </h1><img src="./wave.gif" width="37px" height="37px" />
+<h1 align="center">Welcome to my profile! <img src="./wave.gif" width="37px" height="37px" /></h1>
 <h3 align="center">Hello, I am José Miguel, a Software Engineer Student at Escuela Técnica Superior de Ingeniería Informática in Seville</h3>
 
 <h2 align="left">Languages and Tools:</h2>
