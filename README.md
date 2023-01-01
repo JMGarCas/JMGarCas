@@ -12,6 +12,6 @@
   <img align="center" height="180em" width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="JMGarCas" />
   </div>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=JMGarCas&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
   
 
