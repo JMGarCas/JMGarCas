@@ -6,9 +6,8 @@
 
 <h1 align="center">Github Stats</h1>
   <div align="center" >
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&count_private=true&theme=dracula" alt="JMGarCas" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=dracula" alt="JMGarCas" />
+  <img align="center" width=45% src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&count_private=true&theme=dracula" alt="JMGarCas" /><img align="center" width=55% src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=dracula" alt="JMGarCas" />
   </div>
-  <div align="center" >
-  <img align="left" width=48% src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="JMGarCas" />
-  </div>
+  <img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="JMGarCas" />
+  
 
