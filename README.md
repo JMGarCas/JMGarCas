@@ -6,10 +6,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="JMGarCas" /></p>
 
-<a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&count_private=true&theme=dracula" alt="JMGarCas" /></p>
-</a>
-<a>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=dracula" alt="JMGarCas" /></p>
-</a>
+
 
