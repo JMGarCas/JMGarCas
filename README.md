@@ -6,9 +6,9 @@
 
 <h1 align="center">Github Stats</h1>
 <p align="center"> 
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&count_private=true&      theme=dracula"   alt="JMGarCas" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=dracula" alt="JMGarCas" />
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="JMGarCas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&count_private=true&      theme=dracula"   alt="JMGarCas" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=dracula" alt="JMGarCas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&show_icons=true&locale=en&layout=compact&count_private=true&theme=dracula" alt="JMGarCas" />
 </p>
 
   
