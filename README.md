@@ -10,6 +10,6 @@
   <img align="center" height="180em" width=50% src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&count_private=true&theme=github_dark" alt="JMGarCas" /><img align="center" height="180em" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=github-dark-blue" alt="JMGarCas" />
   </div>
   <div align="center" >
-  <img align="center" height="180em" width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&show_icons=true&locale=en&layout=compact&count_private=true&theme=github_dark" alt="JMGarCas" />
+  <img align="center" height="180em" width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&layout=compact&theme=github_dark" alt="JMGarCas" />
   </div>
 
