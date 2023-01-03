@@ -16,12 +16,7 @@
 <h2><img src="./stats.gif" width="22px" height="22px" />  Github Stats</h2>
 <div align="center" >
   <img align="center" height="192px" width=50% src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Stats" /><img align="center" height="192px" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=github-dark-blue&hide_border=true" alt="Streak" />
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JMGarCas&theme=react-dark&line=58a6ff&color=58a6ff&title_color=58a6ff&area=true&area_color=a5cfff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div align="center" >
-  <img align="center" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs" />
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=JMGarCas&theme=react-dark&line=58a6ff&color=58a6ff&title_color=58a6ff&area=true&area_color=a5cfff&hide_border=true" alt="Graph" />
 </div>
 
 <h2>⚡ Recent GitHub Activity</h2>
