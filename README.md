@@ -9,7 +9,7 @@
   <div align="center" >
   <img align="center" height="180em" width=50% src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&count_private=true&theme=github_dark" alt="JMGarCas" /><img align="center" height="180em" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=github-dark-blue" alt="JMGarCas" />
   </div>
-  <div><h2></h2></div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JMGarCas&theme=react-dark&line=58a6ff&color=58a6ff&title_color=58a6ff&area=true&area_color=a5cfff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" >
