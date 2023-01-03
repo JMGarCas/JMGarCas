@@ -13,4 +13,4 @@
   <img align="center" height="180em" width=50% src="https://github-readme-stats.vercel.app/api/top-langs?username=JMGarCas&layout=compact&theme=github_dark" alt="JMGarCas" />
   </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JMGarCas&theme=react-dark&line=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JMGarCas&theme=react-dark&line=58a6ff&color=58a6ff&title_color=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
