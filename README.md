@@ -25,4 +25,10 @@
 </div>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#217](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/217) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
+2. 💪 Opened PR [#217](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/217) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
+3. 🎉 Merged PR [#216](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/216) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
+4. 💪 Opened PR [#216](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/216) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
+5. 🎉 Merged PR [#215](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/215) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
+<!--END_SECTION:activity-->
 
