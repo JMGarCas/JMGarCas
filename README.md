@@ -25,6 +25,7 @@
 </div>
 
 <h2>⚡ Recent GitHub Activity</h2>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#217](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/217) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
 2. 💪 Opened PR [#217](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/217) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
