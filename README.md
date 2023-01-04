@@ -1,7 +1,7 @@
 <img src="./banner.png"/>
 
 <h3 align="center">
-  Hello <img src="./wave.gif" width="22px" height="22px" />, I am José Miguel, a Software Engineer Student at Escuela Técnica Superior de Ingeniería Informática in Seville
+  Hello world <img src="./wave.gif" width="22px" height="22px" />, I am José Miguel, a Software Engineer Student at Escuela Técnica Superior de Ingeniería Informática in Seville
 </h3>
 
 <h2 align="left"><img src="./laptop1.gif" width="22px" height="22px" />  Languages and Tools:</h2>
