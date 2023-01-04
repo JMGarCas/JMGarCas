@@ -1,12 +1,14 @@
 <img src="./banner.png"/>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Learning+new+things+each+day" height="72px" width="60%" alt="Typing SVG" /></a>
-</p>
-
-<h3 align="center">
-  Hello world <img src="./wave.gif" width="22px" height="22px" />, I am José Miguel, a Software Engineer Student at Escuela Técnica Superior de Ingeniería Informática in Seville
-</h3>
+<details open>
+  <summary><h2>👀 About me</h2></summary>
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Learning+new+things+each+day" height="72px" width="60%" alt="Typing SVG" /></a>
+  </p>
+  <h3 align="center">
+    Hello world <img src="./wave.gif" width="22px" height="22px" />, I am José Miguel, a Software Engineer Student at Escuela Técnica Superior de Ingeniería Informática in Seville
+  </h3>
+</details>
 
 <details open>
 <summary><h2 align="left"><img src="./laptop1.gif" width="22px" height="22px" />  Languages and Tools</h2></summary>
