@@ -9,8 +9,8 @@
 
 <h2>📘 Projects I have worked on</h2>
 <p align="left">
-    <a href="https://github.com/Marchabar/spring-mvc-ParchisOca"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=spring-mvc-ParchisOca&theme=github_dark&hide_border=true&show_icons=false" alt="OcaParchis"></a>
-    <a href="https://github.com/MarioArocaPaez/Pok-monAPI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Pok-monAPI&theme=github_dark&hide_border=true&show_icons=false" alt="OcaParchis"></a>
+    <a href="https://github.com/Marchabar/spring-mvc-ParchisOca"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=spring-mvc-ParchisOca&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="OcaParchis"></a>
+    <a href="https://github.com/MarioArocaPaez/Pok-monAPI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Pok-monAPI&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="OcaParchis"></a>
 </p>
 
 <h2><img src="./stats.gif" width="22px" height="22px" />  Github Stats</h2>
