@@ -35,11 +35,11 @@
 <summary><h2>⚡ Recent GitHub Activity</h2></summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#263](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/263) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
-2. 💪 Opened PR [#263](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/263) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
-3. 🎉 Merged PR [#259](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/259) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
-4. 💪 Opened PR [#259](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/259) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
-5. 🎉 Merged PR [#256](https://github.com/Marchabar/spring-mvc-ParchisOca/pull/256) in [Marchabar/spring-mvc-ParchisOca](https://github.com/Marchabar/spring-mvc-ParchisOca)
+1. 🎉 Merged PR [#5](https://github.com/JMGarCas/Acme-L3/pull/5) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+2. ❗️ Opened issue [#4](https://github.com/JMGarCas/Acme-L3/issues/4) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+3. ❗️ Opened issue [#3](https://github.com/JMGarCas/Acme-L3/issues/3) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+4. ❗️ Opened issue [#2](https://github.com/JMGarCas/Acme-L3/issues/2) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+5. ❗️ Opened issue [#1](https://github.com/JMGarCas/Acme-L3/issues/1) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
 <!--END_SECTION:activity-->
 
 
