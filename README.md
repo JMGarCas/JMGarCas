@@ -35,11 +35,11 @@
 <summary><h2>⚡ Recent GitHub Activity</h2></summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/JMGarCas/Acme-L3/issues/40) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
-2. 🎉 Merged PR [#80](https://github.com/JMGarCas/Acme-L3/pull/80) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
-3. 💪 Opened PR [#80](https://github.com/JMGarCas/Acme-L3/pull/80) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
-4. 🎉 Merged PR [#79](https://github.com/JMGarCas/Acme-L3/pull/79) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
-5. 💪 Opened PR [#79](https://github.com/JMGarCas/Acme-L3/pull/79) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+1. ❗️ Reopened issue [#53](https://github.com/JMGarCas/Acme-L3/issues/53) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+2. ❗️ Closed issue [#53](https://github.com/JMGarCas/Acme-L3/issues/53) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+3. ❗️ Closed issue [#40](https://github.com/JMGarCas/Acme-L3/issues/40) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+4. 🎉 Merged PR [#80](https://github.com/JMGarCas/Acme-L3/pull/80) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
+5. 💪 Opened PR [#80](https://github.com/JMGarCas/Acme-L3/pull/80) in [JMGarCas/Acme-L3](https://github.com/JMGarCas/Acme-L3)
 <!--END_SECTION:activity-->
 
 
