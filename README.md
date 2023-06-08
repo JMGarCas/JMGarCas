@@ -38,7 +38,7 @@
 </p>
 </details>
 
-<details>
+<details open>
 <summary><h2><img src="./stats.gif" width="22px" height="22px" />  Github Stats</h2></summary>
 <div align="center" >
   <img align="center" height="192px" width=50% src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Stats" /><img align="center" height="192px" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=github-dark-blue&hide_border=true" alt="Streak" />
