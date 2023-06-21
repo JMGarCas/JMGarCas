@@ -46,11 +46,3 @@
     <a href="https://github.com/JMGarCas/Squareton-Blender"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Squareton-Blender&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="SquaretonBlender"></a>
 </p>
 </details>
-
-<details open>
-<summary><h2><img src="./stats.gif" width="22px" height="22px" />  Github Stats</h2></summary>
-<div align="center" >
-  <img align="center" height="192px" width=50% src="https://github-readme-stats.vercel.app/api?username=JMGarCas&show_icons=true&locale=en&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" alt="Stats" /><img align="center" height="192px" width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=JMGarCas&show_icons=true&locale=en&count_private=true&theme=github-dark-blue&hide_border=true" alt="Streak" />
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=JMGarCas&theme=react-dark&line=58a6ff&color=58a6ff&title_color=58a6ff&area=true&area_color=a5cfff&hide_border=true" alt="Graph" />
-</div>
-</details>
