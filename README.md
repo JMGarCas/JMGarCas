@@ -42,6 +42,7 @@
 <summary><h2>📕 My projects</h2></summary>
 <p align="left">
     <a href="https://github.com/JMGarCas/Music-Collection"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Music-Collection&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="MusicCollection"></a>
+    <a href="https://github.com/JMGarCas/TOQUE2GO"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=TOQUE2GO&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="TOQUE2GO"></a>
     <a href="https://github.com/JMGarCas/Clustering-Rings"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Clustering-Rings&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="ClusteringRings"></a>
 </p>
 </details>
