@@ -2,9 +2,9 @@
 
 <details open>
   <summary><h2>🌱 About me</h2></summary>
-  <h3 align="center">
+  <p align="center">
     Hello world <img src="./wave.gif" width="22px" height="22px" />, I am José Miguel, a Software Engineer Student at Escuela Técnica Superior de Ingeniería Informática in Seville
-  </h3>
+  </p>
 </details>
 
 <details open>
