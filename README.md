@@ -2,9 +2,6 @@
 
 <details open>
   <summary><h2>🌱 About me</h2></summary>
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer+Student;Learning+each+day" height="72px" width="60%" alt="Typing SVG" /></a>
-  </p>
   <h3 align="center">
     Hello world <img src="./wave.gif" width="22px" height="22px" />, I am José Miguel, a Software Engineer Student at Escuela Técnica Superior de Ingeniería Informática in Seville
   </h3>
@@ -50,7 +47,7 @@
 <details open>
 <summary><h2>📘 Projects I have worked on</h2></summary>
 <p align="left">
-    <a href="https://github.com/JMGarCas/Parchis-Oca-Games"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Parchis-Oca-Games&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="OcaParchis"></a>
+    <a href="https://github.com/Marchabar/Parchis-Oca-Games"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Parchis-Oca-Games&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="OcaParchis"></a>
     <a href="https://github.com/MarioArocaPaez/Pok-monAPI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Pok-monAPI&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="Pok-monAPI"></a>
     <a href="https://github.com/JMGarCas/Squareton-Blender"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Squareton-Blender&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="SquaretonBlender"></a>
 </p>
