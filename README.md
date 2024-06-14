@@ -22,6 +22,5 @@
     <a href="https://github.com/JMGarCas/mongodb-electricity-data"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PGPI-G1-08&repo=XemaCars_ECommerce&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="OcaParchis"></a>
     <a href="https://github.com/Marchabar/Parchis-Oca-Games"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Marchabar&repo=Parchis-Oca-Games&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="OcaParchis"></a>
     <a href="https://github.com/MarioArocaPaez/Pok-monAPI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Pok-monAPI&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="Pok-monAPI"></a>
-    <a href="https://github.com/JMGarCas/Squareton-Blender"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Squareton-Blender&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="SquaretonBlender"></a>
 </p>
 </details>
