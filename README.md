@@ -16,10 +16,10 @@
 <details open>
 <summary><h2>📘 Projects I have worked on</h2></summary>
 <p align="left">
-     <a href="https://github.com/Marchabar/Parchis-Oca-Games"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=energy-dashboard-frontend&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="FrontendElectricity"></a>
+     <a href="https://github.com/JMGarCas/energy-dashboard-frontend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=energy-dashboard-frontend&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="FrontendElectricity"></a>
     <a href="https://github.com/JMGarCas/mongodb-electricity-data"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=mongodb-electricity-data&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="BackendElectricity"></a>
-    <a href="https://github.com/JMGarCas/mongodb-electricity-data"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=EGC-zambrano&repo=decide-part-zambrano&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="Decide"></a>
-    <a href="https://github.com/JMGarCas/mongodb-electricity-data"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PGPI-G1-08&repo=XemaCars_ECommerce&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="XemacarsECommerxe"></a>
+    <a href="https://github.com/EGC-zambrano/decide-part-zambrano"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=EGC-zambrano&repo=decide-part-zambrano&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="Decide"></a>
+    <a href="https://github.com/PGPI-G1-08/XemaCars_ECommerce"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=PGPI-G1-08&repo=XemaCars_ECommerce&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="XemacarsECommerce"></a>
     <a href="https://github.com/Marchabar/Parchis-Oca-Games"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Marchabar&repo=Parchis-Oca-Games&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="OcaParchis"></a>
     <a href="https://github.com/MarioArocaPaez/Pok-monAPI"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=JMGarCas&repo=Pok-monAPI&theme=github_dark&hide_border=true&show_icons=false&bg_color=1f2938" alt="Pok-monAPI"></a>
 </p>
