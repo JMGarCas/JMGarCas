@@ -1,5 +1,3 @@
-<img src="./banner.png"/>
-
 <p>
     The projects shown here are sorted by rows, from the most recent to the oldest. For obvious reasons, private repositories are not shown here. 
 </p>
