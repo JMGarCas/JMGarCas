@@ -1,4 +1,6 @@
-**The projects shown here are sorted by rows, from the most recent to the oldest. For obvious reasons, private repositories are not shown here.**
+Heads up: I’ve been active on GitLab lately for work-related projects — that’s why GitHub’s been quieter than usual.
+
+Projects below are arranged in rows, from newest to oldest. Private repositories aren’t shown.
 
 <details open>
 <summary><h2>📕 My projects</h2></summary>
