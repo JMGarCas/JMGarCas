@@ -1,4 +1,4 @@
-Heads up: I’ve been active on GitLab lately for work-related projects — that’s why GitHub’s been quieter than usual.
+⚠️ Heads up: I’ve been active on GitLab lately for company work — that’s why GitHub’s been quieter than usual.
 
 Projects below are arranged in rows, from newest to oldest. Private repositories aren’t shown.
 
